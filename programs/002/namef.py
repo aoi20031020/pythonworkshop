@@ -1,0 +1,5 @@
+name = input("名前は？")
+local = input("出身は？")
+hob = input("趣味は？")
+hito =input("一言")
+print("\n名前:{}\n出身:{}\n趣味:{}\n一言:{}".format(name,local,hob,hito))
